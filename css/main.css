@@ -4,9 +4,11 @@ body {
 }
 .container {
     width: 70%;
+    float: right;
 }
 .side-nav {
     width: 30%;
+    float: left;
 }
 
 nav ul, footer ul {
